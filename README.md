@@ -1,6 +1,7 @@
 # Mapping Berlin
 
 The goal of this project is to create a light-weight, mobile ready map of points-of-interest in Berlin using open source technologies.
+Okay, well, at least I've finally found the same file as I was looking at while in GitHub for Desktop!  With any luck, this will work. 
 
 ## Technologies
 
